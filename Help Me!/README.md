@@ -1,4 +1,5 @@
 For this reversing challenge, you are given a 32-bit PE binary along with a text file which had an useless ceasar cipher text. You can start by using static analysis with IDA and quickly figure out that it expected 4 arguments, all of which had to be numbers.Here's how the binary behaves based on the arguments provided:
+
 C:\Users\Shreera\Desktop>source.exe
 Epic Fail!
 
