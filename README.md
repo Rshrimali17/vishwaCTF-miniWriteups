@@ -8,7 +8,7 @@
 <br>author = Name of author who added the writeup
 
 ## Setting up a Problem Folder (CyberCell Members) :-
-1. In the README.md of the problem, add Title, Description, Hints, Files, Points, Solves(Before Event end i.e. Public Solves), & Flag of the Problem.
+1. In the README.md of the problem, add Title, Category, Description, Hints, Files, Points, Solves(Before Event end i.e. Public Solves), & Flag(s) of the Problem.
 2. Write a Solution.md, shpecifying the steps briefly to solve the problem, in textual format. Provide links to appropriate websites whenever necessary.
 3. Upload the required Files(if any) in the same Problem Folder.
 4. This will be the solution provided for every problem by CyberCell.
