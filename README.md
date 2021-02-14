@@ -7,9 +7,9 @@
 <br>number = The number of the writeup of that particular problem(Eg. 1st writeup name may be 1-PranavSarda.md, and so on)
 <br>author = Name of author who added the writeup
 
-## Setting up a Problem Folder (CyberCell Members) :-
+## Setting up a Problem Folder (CyberCell Members) :- (Refer Fibonacci Number folder for Basic Setup)
 1. In the README.md of the problem, add Title, Category, Description, Hints, Files, Points, Solves(Before Event end i.e. Public Solves), & Flag(s) of the Problem.
-2. Write a Solution.md, shpecifying the steps briefly to solve the problem, in textual format. Provide links to appropriate websites whenever necessary.
+2. Write a Solution.md, specifying the steps briefly to solve the problem, in textual format. Provide links to appropriate websites whenever necessary.
 3. Upload the required Files(if any) in the same Problem Folder.
 4. This will be the solution provided for every problem by CyberCell.
 5. You/Other Non-CyberCell Players can write any writeups to the problems later on and submit Pull Requests for the same.
