@@ -1,4 +1,3 @@
-Challenge:
 ![Screenshot](challenge.png)
 
 
