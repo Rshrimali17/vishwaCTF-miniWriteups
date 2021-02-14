@@ -5,19 +5,19 @@ Solution:
 
 For this reversing challenge, you are given a 32-bit PE binary along with a text file which had an useless ceasar cipher text. You can start by using static analysis with IDA and quickly figure out that it expected 4 arguments, all of which had to be numbers.Here's how the binary behaves based on the arguments provided:
 
-C:\Users\Shreera\Desktop>source.exe
+C:\Users\Shreera\Desktop>help.exe
 
 Epic Fail!
 
-C:\Users\Shreeraj\Desktop>source.exe aaaa aaaa aaaa aaaa
+C:\Users\Shreeraj\Desktop>help.exe aaaa aaaa aaaa aaaa
 
 Hogwarts
 
-C:\Users\koji\Desktop>source.exe 1 2 3 4
+C:\Users\koji\Desktop>help.exe 1 2 3 4
 
 4 digit numbers are the way forward
 
-C:\Users\koji\Desktop>source 1111 2222 3333 4444
+C:\Users\koji\Desktop>help.exe 1111 2222 3333 4444
 
 So u think you found the flag
 
