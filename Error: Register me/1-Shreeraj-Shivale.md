@@ -9,3 +9,5 @@ create a file called register.key
 start the exe
 
 enter the flag inside curly brackets in vishwaCTF{} format
+
+flag: vishwaCTF{f1l34cc3ss}
