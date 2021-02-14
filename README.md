@@ -11,3 +11,12 @@
 1. Clone this repo locally on your laptop.
 2. And simply push & pull changes.
 3. !IMP Do not delete someone else's writeup even by mistake during merges.
+
+## Instructions for adding writeups (Non-CyberCell Players) :-
+1. Fork this repo on your account. Read more : https://docs.github.com/en/github/getting-started-with-github/fork-a-repo
+2. Make your changes.
+3. Put up a Pull Request. One of the owners will review it and comment improvements/accept it.
+4. !IMP Make sure your fork doesnt have a Merge conflict with the main repo. Learn how to sync your fork. Read more : https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
+5. !IMP Again, do not delete someone else's writeup even by mistake during merges.
+
+P.S. : An IDE like VSCode having Integrated Git may help a lot for easier merging.
